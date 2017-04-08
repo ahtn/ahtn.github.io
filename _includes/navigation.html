@@ -2,7 +2,7 @@
 <nav class="c-navigation">
   <div class="c-navigation__container">
     <a class="c-navigation__title " 
-       href="https://blog.seethis.link" > {{ site.title }} </span>
+       href="{{ site.url }}" > {{ site.title }} </span>
     <span class="c-navigation__links ">
       <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">Blog</a>
       <!-- <a class="c-navigation__item {% if page.url == '/posts/' %}is-active{% endif %}" href="{{ "/posts/" | prepend: site.baseurl }}">Archive</a> -->

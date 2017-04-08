@@ -33,3 +33,5 @@ planning will make it so:
 Now that I've got a couple of controllers available, I'll start adding the rest
 of the i2c features (at the moment the code only works for two devices connected
 via i2c), and I'll give some of the RF features some more thorough testing.
+
+[Comments on reddit](http://blog.seethis.link/2017/04/06/first-wsplit-prototypes.html)

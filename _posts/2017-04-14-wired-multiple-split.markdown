@@ -7,4 +7,4 @@ categories: keyboards
 
 {% include image.html url="/assests/imgs/first-prototypes/wired-multiple-split.jpg" description="Wired multiple split via i2c" %}
 
-[Comments on reddit]()
+[Comments on reddit](http://blog.seethis.link/2017/04/14/wired-multiple-split.html)

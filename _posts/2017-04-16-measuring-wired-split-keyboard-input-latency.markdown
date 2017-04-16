@@ -128,4 +128,4 @@ a keyboard can have a big effect on input latency.
 
 Next time I'll look at the latency of my controller in wireless split mode.
 
-[Comments on reddit]()
+[Comments on reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/65pa0p/keyboard_science_measuring_the_input_latency_of/)

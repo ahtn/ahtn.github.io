@@ -25,4 +25,4 @@ I also started working on the software for the layout and firmware flasher:
 {% include image.html url="/assests/imgs/first-prototypes/editor-demo.png" description="Very rough draft of the layout editor" %}
 
 
-<!-- [Comments on reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/) -->
+[Comments on reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/6ou3se/mixed_wired_wireless_demo/)

@@ -1,4 +1,4 @@
----
+--
 layout: post
 title:  "keyplus first release"
 date:   2017-09-14
@@ -96,4 +96,4 @@ but for a couple of reasons I wanted to write my own:
   about embedded programming and hardware, assembly programming, reverse
   engineering, electrical engineering and PCB design.
 
-[Comments on reddit]()
+[Comments on reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/702kxr/introducing_keyplus_my_new_wireless_split/)

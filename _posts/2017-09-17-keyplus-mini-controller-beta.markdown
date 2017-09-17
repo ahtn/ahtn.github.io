@@ -54,4 +54,4 @@ The next step is to look into organizing professional PCB assembly, so I don't e
 burning down my house. In the meantime I have a some of spare boards from this
 run that I'll put up mechmarket for those interested.
 
-[Comments on reddit]()
+[Comments on reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/70mcfb/i_made_a_new_controller_for_custom_keyboards_usb/)

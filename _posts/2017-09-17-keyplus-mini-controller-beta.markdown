@@ -17,14 +17,14 @@ It uses dual row 2.0mm pin headers to allow it to fit between Cherry MX switch
 footprints. Hardware files and wiring information are [available
 here](https://github.com/ahtn/keyboard_pcb/tree/master/keyplus_mini).
 
-The board microcontroller uses the ATxmega32a4u. The ATxmega32a4u has an 8 bit,
+The board uses the ATxmega32a4u microcontroller. The ATxmega32a4u is an 8 bit,
 32MHz, AVR microprocessor. It's not drop in compatible with the ATmega32u4, but
 there's a few good reasons why I chose it over the ATmega32u4:
 
 * It is much more power efficient, capable of running at up to 12MHz down to 1.6V.
 * It has an AES coprocessor, which is about 10x faster than a software
   implementation.
-* Crystal-less USB operation, for a smaller footprint and less complexity.
+* Crystal-less USB operation, for a smaller footprint and less PCB complexity.
 * It is also available in 64kb and 128kb flash versions.
 
 ## Home cooked PCB's
@@ -38,13 +38,13 @@ rather catastrophic:
 
 This happened because of hot spots inside the oven and the PCB's in the hottest
 part of the oven weren't very happy.  To be honest, I could have mostly avoid
-this situation by taking it earlier, and then reworking the uncooked PCB's with
-my hot air gun. But there was a part of me that was curious to see what would
-happen...
+this situation by taking out it earlier, and then reworking the uncooked PCB's
+with my hot air gun. But there was a part of me that was curious to see what
+would happen...
 
 For my next approach, I used an electric skillet. This went much better and was
 much easier to use. However, I still ended up needing to rework some of the
-boards because of an issue with my solder stencil.
+boards because of an issue with my solder paste stencil.
 
 {% include image.html url="/assests/imgs/first-prototypes/keyplus_skillet_panel.jpg" description="" %}
 

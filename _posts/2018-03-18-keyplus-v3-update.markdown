@@ -69,4 +69,4 @@ I'm waiting on the 2.0mm pin headers to go with the controllers.  I'm planning
 to sell them for 16USD. If everything goes well, I'd hope to get this price
 lower in the future with larger orders.
 
-<!-- [Comments on reddit]() -->
+[Comments on reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/85b41a/update_on_keyplus_usb_typec_and_wireless_split/)

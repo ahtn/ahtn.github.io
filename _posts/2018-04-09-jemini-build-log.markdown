@@ -161,4 +161,4 @@ stored on the device, but the layout used is determined by the receiver. So
 if you wanted you could store different layouts on each device, and the layout
 used would be determined by which device is acting as the receiver.
 
-[Comments on reddit]()
+[Comments on reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/8ays8u/wireless_split_build_log/)

@@ -32,7 +32,11 @@ from the drop down menu. You only need to do this once, then future updates
 will only need to provide your layout file. An example layout file is
 given below that defines the two devices and shows how the split devices
 are connected. You can
-[get latest version of the flasher here](https://github.com/ahtn/keyplus/releases).
+[get latest version of the flasher here](https://github.com/ahtn/keyplus/releases)
+(NOTE: If you have a REV3 controller that reports as using firmware version 0.2.2,
+use version 0.3.0 of the keyplus_flasher. The firmware should have been set to
+0.3.0 before I sent them, but I forgot to do this before sending them. You can
+update the firmware using the latest version of the keyplus flasher.).
 You can get more information and examples of the [layout format here](
 https://github.com/ahtn/keyplus/tree/master/layouts).
 
